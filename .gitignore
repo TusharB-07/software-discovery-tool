@@ -9,3 +9,4 @@ log/
 venv/
 node_modules/
 backend/node_modules/
+.DS_Store
